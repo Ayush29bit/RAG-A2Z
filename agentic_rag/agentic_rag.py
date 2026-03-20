@@ -3,11 +3,9 @@ import json
 import requests
 from pathlib import Path
 from typing import List, Dict, Any, Optional
-from Ipython.display import display, Markdown
 import pandas as pd
 from contextual import ContextualAI
 import ast
-from IPython.display import display, Markdown
 from tqdm import tqdm
 import numpy as np
 import matplotlib.pyplot as plt
