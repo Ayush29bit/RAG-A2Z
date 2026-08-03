@@ -28,3 +28,5 @@ Agentic RAG
 GraphRAG
 CRAG
 Adaptive RAG
+
+hello dosto i have join the edunext as intern ,to upskill and gain the production grade experience and dont get afraid learning new technology , you have claude code and other ai tools which will help you 
